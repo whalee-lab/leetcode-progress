@@ -1,14 +1,14 @@
-# Title: Two Sum
-# Link: https://leetcode.com/problems/two-sum/
-# Difficulty: Easy
-# Tags: Hashmap, Array
+## Title: Two Sum
+### Link: https://leetcode.com/problems/two-sum/
+### Difficulty: Easy
+### Tags: Hashmap, Array
 
-## Approach
+### Approach
 Short explanation (3–5 lines).
 
-## Code
+### Code
 <your solution>
 
-## Complexity
+### Complexity
 Time: O(n)
 Space: O(n)
