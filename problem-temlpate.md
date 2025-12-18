@@ -1,6 +1,9 @@
 ## Title: Two Sum
+
 ### Link: https://leetcode.com/problems/two-sum/
+
 ### Difficulty: Easy
+
 ### Tags: Hashmap, Array
 
 ### Approach
